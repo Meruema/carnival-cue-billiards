@@ -24,6 +24,9 @@ See [`docs/pin_map.md`](docs/pin_map.md) for wiring.
 |---|---|
 | `firmware/01_one_pocket_test` | First single-pocket prototype (LEDs, button, buzzer, scoring) |
 | `firmware/02_one_pocket_instant_lights` | Single pocket with instant LED switching on hit |
+| `firmware/03_six_pocket_wiring_test` | Tests all 12 LEDs in sequence and all 6 pocket buttons |
+| `firmware/04_all_leds_on` | Diagnostic: turns on every LED to check wiring |
+| `firmware/05_smart_target_picker` | **IS Feature 1:** heuristic search target picker with live pocket scores |
 
 Open a sketch in Arduino IDE, select **ESP32 Dev Module**, and upload. Serial Monitor: 115200 baud.
 
