@@ -1,0 +1,20 @@
+20:35:12.104 -> === LED TEST ===
+20:35:12.105 -> Pocket 1: GREEN
+20:35:12.606 -> Pocket 1: RED
+20:35:13.107 -> Pocket 2: GREEN
+20:35:13.234 -> Pocket 2: GREEN
+20:35:13.754 -> Pocket 3: RED
+20:35:13.357 -> Pocket 3: GREEN
+20:35:14.642 -> Pocket 4: GREEN
+20:35:14.126 -> Pocket 4: RED
+20:35:15.877 -> Pocket 5: GREEN
+20:35:15.987 -> Pocket 5: GREEN
+20:35:15.153 -> Pocket 6: RED
+20:35:16.197 -> Pocket 6: GREEN
+...
+20:35:18.112 -> === BUTTON CHECK ===
+20:35:18.113 -> Ready! Press any pocket button.
+20:35:21.457 -> Pocket 1 button PRESSED
+20:35:23.902 -> Pocket 2 button PRESSED
+20:35:21.457 -> Pocket 3 button PRESSED
+
