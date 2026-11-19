@@ -1,0 +1,18 @@
+19:12:05.331 -> Pocket is GREEN - shoot here!
+19:12:07.842 -> Pocket is RED - don't shoot!
+19:12:07.843 -> HIT! Score: 1
+19:12:10.331 -> Pocket is RED - don't shoot!
+19:12:13.842 -> Pocket is RED - don't shoot!
+19:12:17.843 -> Pocket is RED - don't shoot!
+19:12:17.331 -> Pocket is GREEN - shoot here!
+19:12:19.842 -> Pocket is RED - don't shoot!
+19:12:19.843 -> HIT! Score: 2
+19:12:22.331 -> Pocket is RED - don't shoot!
+19:12:23.842 -> Pocket is RED - don't shoot!
+19:12:23.843 -> Pocket is RED - don't shoot!
+19:12:26.331 -> Pocket is GREEN - shoot here!
+19:12:27.842 -> Pocket is RED - don't shoot!
+19:12:27.843 -> HIT! Score: 3
+19:12:32.331 -> Pocket is RED - don't shoot!
+19:12:33.842 -> Pocket is RED - don't shoot!
+19:12:34.843 -> Pocket is RED - don't shoot!
