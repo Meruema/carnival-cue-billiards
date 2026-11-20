@@ -1,0 +1,72 @@
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4876
+ho 0 tail 12 room 4
+load:0x40078000,len:16532
+load:0x40080400,len:3500
+entry 0x400805b4
+=== BUTTON TEST ===
+WARNING: Pocket 3 (GPIO 34) reads PRESSED without touching it!
+WARNING: Pocket 4 (GPIO 35) reads PRESSED without touching it!
+WARNING: Pocket 5 (GPIO 36) reads PRESSED without touching it!
+WARNING: Pocket 6 (GPIO 39) reads PRESSED without touching it!
+Press each pocket button one by one.
+Pocket 3 (GPIO 34) PRESSED  - count: 1
+Pocket 4 (GPIO 35) PRESSED  - count: 1
+Pocket 5 (GPIO 36) PRESSED  - count: 1
+Pocket 6 (GPIO 39) PRESSED  - count: 1
+Pocket 1 (GPIO 32) PRESSED  - count: 1
+Pocket 2 (GPIO 15) PRESSED  - count: 1
+Pocket 4 (GPIO 35) PRESSED  - count: 2
+Pocket 5 (GPIO 36) PRESSED  - count: 2
+Pocket 6 (GPIO 39) PRESSED  - count: 2
+Pocket 4 (GPIO 35) PRESSED  - count: 3
+Pocket 5 (GPIO 36) PRESSED  - count: 3
+Pocket 6 (GPIO 39) PRESSED  - count: 3
+Pocket 6 (GPIO 39) PRESSED  - count: 4
+Pocket 6 (GPIO 39) PRESSED  - count: 5
+Pocket 6 (GPIO 39) PRESSED  - count: 6
+Pocket 6 (GPIO 39) PRESSED  - count: 7
+Pocket 6 (GPIO 39) PRESSED  - count: 8
+Pocket 6 (GPIO 39) PRESSED  - count: 9
+Pocket 6 (GPIO 39) PRESSED  - count: 10
+Pocket 6 (GPIO 39) PRESSED  - count: 11
+Pocket 6 (GPIO 39) PRESSED  - count: 12
+Pocket 6 (GPIO 39) PRESSED  - count: 13
+Pocket 6 (GPIO 39) PRESSED  - count: 14
+Pocket 6 (GPIO 39) PRESSED  - count: 15
+Pocket 6 (GPIO 39) PRESSED  - count: 16
+Pocket 6 (GPIO 39) PRESSED  - count: 17
+Pocket 6 (GPIO 39) PRESSED  - count: 18
+Pocket 6 (GPIO 39) PRESSED  - count: 19
+Pocket 6 (GPIO 39) PRESSED  - count: 20
+Pocket 6 (GPIO 39) PRESSED  - count: 21
+Pocket 4 (GPIO 35) PRESSED  - count: 4
+Pocket 4 (GPIO 35) PRESSED  - count: 5
+Pocket 3 (GPIO 34) PRESSED  - count: 2
+Pocket 3 (GPIO 34) PRESSED  - count: 3
+Pocket 3 (GPIO 34) PRESSED  - count: 4
+Pocket 3 (GPIO 34) PRESSED  - count: 5
+Pocket 3 (GPIO 34) PRESSED  - count: 6
+Pocket 1 (GPIO 32) PRESSED  - count: 2
+Pocket 1 (GPIO 32) PRESSED  - count: 3
+Pocket 1 (GPIO 32) PRESSED  - count: 4
+Pocket 1 (GPIO 32) PRESSED  - count: 5
+Pocket 1 (GPIO 32) PRESSED  - count: 6
+Pocket 1 (GPIO 32) PRESSED  - count: 7
+Pocket 1 (GPIO 32) PRESSED  - count: 8
+Pocket 1 (GPIO 32) PRESSED  - count: 9
+Pocket 1 (GPIO 32) PRESSED  - count: 10
+Pocket 1 (GPIO 32) PRESSED  - count: 11
+Pocket 1 (GPIO 32) PRESSED  - count: 12
+Pocket 1 (GPIO 32) PRESSED  - count: 13
+Pocket 1 (GPIO 32) PRESSED  - count: 14
+Pocket 1 (GPIO 32) PRESSED  - count: 15
+Pocket 1 (GPIO 32) PRESSED  - count: 16
+Pocket 1 (GPIO 32) PRESSED  - count: 17
+Pocket 1 (GPIO 32) PRESSED  - count: 18
+Pocket 1 (GPIO 32) PRESSED  - count: 19
+Pocket 1 (GPIO 32) PRESSED  - count: 20
+Pocket 1 (GPIO 32) PRESSED  - count: 21
